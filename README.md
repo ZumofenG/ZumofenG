@@ -1,6 +1,6 @@
 👋 Hi, I’m @ZumofenG
 
-I am a **PhD candidate** at the Institute of Political Science, University of Bern, and research assistant of the 'Année Politique Suisse' (APS). 
+I am a **PostDoc student** at the Institute of Political Science, University of Bern, and research assistant of the 'Année Politique Suisse' (APS). 
  
 My research interests include political communication, political psychology, voting behavior, online media, and referendum campaigns.
 For example, I am currently working on projects related to political information selection online, and notably on Google. 
